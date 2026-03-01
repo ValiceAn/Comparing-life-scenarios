@@ -1,6 +1,6 @@
-# <h1 align="center">Probability Project </h1>
+# <h1 align="center">Comparison of life scenarios </h1>
 
 ---
 
-An interactive web application that simulates and compares life scenarios using probability and Monte Carlo methods. Users can input various personal and professional parameters to estimate the likelihood of achieving goals like financial success, health, and happiness by 2040.
+You enter simple details about your life and goals, and the app shows your REAL CHANCES of reaching things like financial stability, good health, and happiness by 2040.
 
