@@ -1,4 +1,4 @@
-# <h1 align="center">Probability Project 🔮</h1>
+# <h1 align="center">Probability Project </h1>
 
 ---
 
